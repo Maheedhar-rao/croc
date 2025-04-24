@@ -5,6 +5,15 @@ body {
   color: #ffffff;
 }
 
+.logo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
 nav {
   background: #1A512E;
   display: flex;
